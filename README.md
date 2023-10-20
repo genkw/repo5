@@ -10,6 +10,4 @@ cornflake#2 by Ryan
 duck egg
 steak
 corn ally
-=======
-hi bye "Here is the conflict!"
->>>>>>> 9efeba91dc06de3184a5c84528790ebabcbc5530
+hi bye "Here is the conflict"
